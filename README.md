@@ -43,18 +43,9 @@ PROJECT_NAME 为项目名称
 #也可以根据自己的需要进行编译
 这里使用一下脚本
 https://github.com/iMoreApps/ffmpeg-avplayer-for-ios-tvos.git
+
 https://github.com/kewlbear/x264-ios.git
 
 #本编译时参考Minmin.Sun博客进行编译在此表示感谢
 博客地址如下:
 http://depthlove.github.io/2015/09/18/use-ffmpeg-and-x264-encode-iOS-camera-video-to-h264/
-
-
-
-
-
-
-
-
-
-
